@@ -9,7 +9,6 @@ func linearSearch(for value: Int, list: Array<Int>) -> Bool {
             return true
         }
     }
-    
     return false
 }
 
